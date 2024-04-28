@@ -1,3 +1,6 @@
+**Author** : [Linkedin Profile]("www.linkedin.com/in/asadmujeeb")
+
+**Email** : asadmujeeb559@gmail.com
 
 **Linear Regression Model: Predicting Tips**
 
