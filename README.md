@@ -38,3 +38,8 @@ A simple linear model to predict the tip amount based on the total bill.
 R-Squared: 0.46 (indicating a moderate fit)
 
 Mean Squared Error: 0.54
+
+**Visulization**
+
+![image](https://github.com/AsadMujeeb/Linear-Regression-ML-Model/assets/128974395/60d18479-e5b0-495d-87eb-1d1f0a2c1ad3)
+
